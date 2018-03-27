@@ -8,7 +8,7 @@
 classname = "Getting Started with Read the Docs"
 
 # OPTIONAL: The URL to the GitHub Repository for this class
-github_repo = "https://github.com/estjohn76/readthedocs"
+github_repo = "https://github.com/estjohn76/readthedoc"
 
 # OPTIONAL: Google Analytics
 # googleanalytics_id = 'UA-85156643-4'
