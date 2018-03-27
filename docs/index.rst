@@ -8,7 +8,7 @@ Welcome to the |classbold| lab at F5 Agility |year|
 
 |repoinfo|
 
-This intent of this guide is to assist in the initial setup of all of the tools
+The intent of this guide is to assist in the initial setup of all of the tools
  necessary to begin utilizing GitHub and Read the Docs to provide 
  documentation for Agility Labs.
 
