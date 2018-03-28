@@ -1,4 +1,4 @@
-Class - |classname|
+|classname|
 ===================
 
 .. TODO:: Need class description
