@@ -23,6 +23,6 @@ at *AgilityLabsRTD
    :glob:
 
    intro*
-   class*/class*
-   examples
-   markdown
+   os*/windows*
+   os*/mac*
+   os*/linux*
