@@ -1,4 +1,4 @@
-Lab – Download the |bip| |ve| Image
+Windows 7
 -----------------------------------
 
 .. TODO:: Needs lab description

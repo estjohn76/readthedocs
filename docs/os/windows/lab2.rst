@@ -1,4 +1,4 @@
-Lab – Install a |bip| |ve| image on a Hypervisor
+Windows 10
 ------------------------------------------------
 
 .. TODO:: Needs lab description
