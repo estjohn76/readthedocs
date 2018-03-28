@@ -1,4 +1,4 @@
-F5 Agility Labs Read the Docs - How to
+Getting Started with F5 Agility Labs Read the Docs
 =======================
 
 Welcome
