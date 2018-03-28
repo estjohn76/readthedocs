@@ -3,12 +3,11 @@ Class - |classname|
 
 .. TODO:: Need class description
 
-This class covers the following topics:
+This documentatoin covers the following topics:
 
-- Downloading a |f5| |bip| |ve|
-- Installing a |bip| |ve| image on a hypervisor
-- Installing a |f5| |bip| Appliance
-- Powering on a |bip| Appliance
+- Downloading and installing all software needed to create and update documentation on Windows
+- Downloading and installing all software needed to create and update documentation on Mac
+- Downloading and installing all software needed to create and update documentation on Linux
 
 Expected time to complete: **3 hours**
 
@@ -16,4 +15,6 @@ Expected time to complete: **3 hours**
    :maxdepth: 1
    :glob:
 
-   module*/module*
+   linux*/module*
+   mac*/module*
+   windows*/module*

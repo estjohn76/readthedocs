@@ -23,6 +23,6 @@ at *AgilityLabsRTD
    :glob:
 
    intro*
-   os*/windows*
-   os*/mac*
-   os*/linux*
+   os/windows*
+   os/mac*
+   os/linux*
